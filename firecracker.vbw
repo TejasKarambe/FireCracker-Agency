@@ -1,0 +1,12 @@
+frmsplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmlogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmmenu = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmsupplier = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+frmdistributor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmpurchase = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmorder = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmincome = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmviewpurchase = 0, 0, 0, 0, C, 26, 26, 1047, 504, C
+frmviewsupplier = 104, 104, 1125, 582, , 78, 78, 1099, 703, C
+frmviewdistributor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
